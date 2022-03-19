@@ -10,7 +10,7 @@ The supermarket chain would like to explore whether Data Science can help them a
 
 **Problem Statement**
 
-● The task then is to build and evaluate a model for verifying people's age. To start working on the task, you'll have a set of photographs of people with their ages indicated.
+● Build and evaluate a model for verifying people's age. A set of photographs of people with their ages indicated has been provided to start off the task.
 
 **Project Instructions**
 
@@ -18,6 +18,6 @@ The supermarket chain would like to explore whether Data Science can help them a
 
 ● Train and evaluate the model (it needs to be done on the GPU platform).
 
-● Combine your code, output, and findings (from the previous points) in the final notebook.
+● Combine the code, output, and findings (from the previous points) in the final notebook.
 
 ● Make conclusions of the model evaluation, add them to the notebook.
